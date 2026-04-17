@@ -69,7 +69,7 @@
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Thom4x&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![]()]()  
   
  </div>
  
